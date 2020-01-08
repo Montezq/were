@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'CircularStdBold';
+	src: url('CircularStdBold.eot');
+	src: local('CircularStdBold'), url('CircularStdBold.woff') format('woff'), url('CircularStdBold.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_79748">Text with this font applied</p> */
+.fontsforweb_fontid_79748 {
+	font-family: 'CircularStdBold' !important;
+}
+@font-face {
+	font-family: 'CircularStdBook';
+	src: local(CircularStdBook), url('CircularStd-Book.otf') format('opentype');
+}
+@font-face {
+	font-family: 'CircularWebBook';
+	src: url('EFCircularWeb-Book.woff') format("woff"), url('EFCircularWeb-Book.otf') format('opentype');
+}
+
+/* Font downloaded from FontsForWeb.com */
